@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890858912962",
+    "project_id": "sma2app",
+    "storage_bucket": "sma2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890858912962:android:b11454a1d7bc4c3ce04f5b",
+        "android_client_info": {
+          "package_name": "com.madd.smandaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPKqXUr94CJuNHm5o1WcgAkt4RInG2z9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
